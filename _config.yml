@@ -5,6 +5,7 @@ url: "https://dhuruvapriyan.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 markdown: kramdown
 
