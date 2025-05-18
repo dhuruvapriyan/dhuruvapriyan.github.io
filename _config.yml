@@ -1,0 +1,15 @@
+title: "Dhuruvapriyan's Blog"
+description: "Neuroscience Visualizations & Research Logs"
+baseurl: ""
+url: "https://dhuruvapriyan.github.io"
+theme: "minimal-mistakes-jekyll"
+plugins:
+  - jekyll-include-cache
+markdown: kramdown
+
+author:
+  name: "Dhuruvapriyan"
+
+# For proper navigation on homepage
+paginate: 5
+paginate_path: "/page:num/"
