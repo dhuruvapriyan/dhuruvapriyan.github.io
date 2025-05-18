@@ -2,9 +2,10 @@ title: "Dhuruvapriyan's Blog"
 description: "Neuroscience Visualizations & Research Logs"
 baseurl: ""
 url: "https://dhuruvapriyan.github.io"
-theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
-  - jekyll-include-cache
+  - jekyll-remote-theme
+
 markdown: kramdown
 
 author:
