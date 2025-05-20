@@ -10,10 +10,12 @@ description: "A simple animation of a single-neuron."
 ---
 
 ## Growing Neuron - L5TTPC
+<video width="100%" controls>
+  <source src="{{ '/assets/videos/growing_neurons.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-![Growing Neuron](/assets/images/growing_neurons.mp4)
-
-> **Figure 1.** A simple animation of a L5TTPC neuron growing.
+<figcaption><strong>Figure 1.</strong> A simple animation of a L5TTPC neuron growing.</figcaption>
 
 ---
 
